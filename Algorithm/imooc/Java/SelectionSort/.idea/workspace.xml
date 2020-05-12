@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cb2874c-917a-4a52-8b07-313d5be8020f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C++/SelectionSort/SortTestHelper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++/SelectionSort/Student.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/Person.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Language/C++/通讯录系统/.idea/通讯录系统.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Language/C++/通讯录系统/Opertation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Language/C++/通讯录系统/Opertation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Language/C++/通讯录系统/Opertations.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/01Helloworld.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/01Helloworld.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/01Helloworld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/01Helloworld.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/01Helloworld.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/01Helloworld/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/黑马C++/第2阶段实战-通讯录管理/通讯录管理系统讲义/通讯录管理系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/黑马C++/第2阶段实战-通讯录管理/通讯录管理系统讲义/通讯录管理系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Language/C++/黑马C++/第3阶段-C++核心编程 资料/讲义/C++核心编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Language/C++/黑马C++/第3阶段-C++核心编程 资料/讲义/C++核心编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/283. 移动零.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/out/production/283. 移动零/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/out/production/283. 移动零/testArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/283. 移动零/src/testArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/414. 第三大的数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Array/414. 第三大的数/Solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/Blinary_tree.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/211,添加与搜索单词.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/211,添加与搜索单词/src/WordDictionary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/303.Range_Sum_Queue_tree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/src/Merger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/src/NumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/src/NumArray2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/src/NumArray3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/src/NumArray4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/303.Range_Sum_Queue_tree/src/SegmentTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/347. 前 K 个高频元素/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/347. 前 K 个高频元素/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/347. 前 K 个高频元素/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/347. 前 K 个高频元素/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/347. 前 K 个高频元素/347. 前 K 个高频元素.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/347. 前 K 个高频元素/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/349.两个数组的交集.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/349.两个数组的交集/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/350. 两个数组的交集 II/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/350. 两个数组的交集 II/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/350. 两个数组的交集 II/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/350. 两个数组的交集 II/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/350. 两个数组的交集 II/350. 两个数组的交集 II.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/350. 两个数组的交集 II/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/387. First-Unique-Character/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/387. First-Unique-Character/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/387. First-Unique-Character/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/387. First-Unique-Character/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/387. First-Unique-Character/387. First-Unique-Character.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/387. First-Unique-Character/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/677. 键值映射/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/677. 键值映射/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/677. 键值映射/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/677. 键值映射/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/677. 键值映射/677. 键值映射.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/677. 键值映射/src/MapSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/Blinary_tree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/src/Blinary572/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/src/Blinary572/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/Leecode/code_Leecode/Blinary_tree/src/Blinary572/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/345.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/photo/附件四：小组成员个人时间安排 思维导图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/1. array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/out/production/1. array/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/out/production/1. array/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/src/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/1. array/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/2. Stack/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/2. Stack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/2. Stack/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/2. Stack/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/2. stack_leecode/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/Map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/AVLMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/AVLTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/BSTMap$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/BSTMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/LinkedListMap$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/LinkedListMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/META-INF/Map.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/out/production/Map/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/AVLMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/AVLTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/BSTMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/LinkedListMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. Map/src/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/MapHeap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/out/production/MapHeap/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/out/production/MapHeap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/out/production/MapHeap/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/src/MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/src/PriorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/src/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. MapHeap/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/SegmentTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/out/production/SegmentTree/META-INF/SegmentTree.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/out/production/SegmentTree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/out/production/SegmentTree/Merger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/out/production/SegmentTree/SegmentTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/src/Merger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/3. SegmentTree/src/SegmentTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/Trie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/BSTSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/Trie$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/Trie208$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/Trie208.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/out/production/Trie/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/BSTSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/Trie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/Trie208.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/4. Trie/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/5. UnionFind.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/META-INF/5. UnionFind.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/out/production/5. UnionFind/UnionFind7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/5. UnionFind/src/UnionFind7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/6. AVLTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/out/production/6. AVLTree/AVLTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/out/production/6. AVLTree/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/out/production/6. AVLTree/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/out/production/6. AVLTree/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/out/production/6. AVLTree/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/out/production/6. AVLTree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/src/AVLTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/src/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/src/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/6. AVLTree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. Map/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. Map/LinkedListMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. Map/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. Map/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. Map/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/RedBlackTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/AVLTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/RBTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/out/production/RedBlackTree/RBTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/src/AVLTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/src/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/src/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/src/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/7. RedBlackTree/src/RBTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/8. HashCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/out/production/8. HashCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/out/production/8. HashCode/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8. HashCode/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/8.1 HashTable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/AVLTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/RBTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/RBTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/Solution$HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/out/production/8.1 HashTable/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/AVLTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/HashTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/RBTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/8.1 HashTable/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/data_structure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/array_.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/.idea/array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/1. array/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/2. Stack/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/2. Stack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/2. Stack/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/2. Stack/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/2. stack_leecode/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/3. queue/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/3. queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/3. queue/LoopQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/3. queue/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/3. queue/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Leecode/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Leecode/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Leecode/Solution3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Leecode/Solution_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Leecode/Solution_vmhead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Leecode/recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Queue/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Queue/ArrayQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Queue/LinkedListQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Queue/LoopQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Queue/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. LinkedList_Queue/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. Linked_List/ArrayStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. Linked_List/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. Linked_List/LinkedListStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. Linked_List/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. Linked_List/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/4. Linked_List/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/5. Binary_Search_tree/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/5. Binary_Search_tree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/5. Binary_Search_tree/preorder_off.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_BST/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_BST/BST_set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_BST/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_BST/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_BST/set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/BSTSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/LinkedListSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/a-tale-of-two-cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/6. Set_Linkedlist/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/Map/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/Map/LinkedListMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/Map/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/Map/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/Map/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/a-tale-of-two-cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/array_/src/text.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/1. array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/1. array/.idea/array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/1. array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/1. array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/1. array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/6. Set_Linkedlist/a-tale-of-two-cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/6. Set_Linkedlist/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Binary_Search_tree/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Binary_Search_tree/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Binary_Search_tree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Binary_Search_tree/preorder_off.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Leecode/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Leecode/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Leecode/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Leecode/Solution_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Leecode/Solution_vmhead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Leecode/recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/LinkedListQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/LinkedListQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/LoopQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/LinkedList_Queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/LinkedListStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Linked_List/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Map/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Map/LinkedListMap$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Map/LinkedListMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Map/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Map/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Map/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_BST/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_BST/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_BST/BST_set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_BST/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_BST/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_BST/set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/BSTSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/LinkedListSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Set_Linkedlist/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Stack/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Stack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/Stack/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/a-tale-of-two-cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/array/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/array/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/queue/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/queue/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/queue/LoopQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/queue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/stack_leecode/Solution$ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/stack_leecode/Solution$Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/stack_leecode/Solution$array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/stack_leecode/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_java/Map_ago/out/production/array_/text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/.idea/1. array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/Array/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/Array/array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/1. array/Array/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/.idea/7. RedBlackTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/RedBlackTree/AVLTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/RedBlackTree/BST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/RedBlackTree/FileOpenration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/RedBlackTree/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/RedBlackTree/RBTree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/7. RedBlackTree/RedBlackTree/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/.idea/UnionFind.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/Unionfind1/Main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/Unionfind1/UnionFind.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/Unionfind1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/data_structure_python/UnionFind/Unionfind1/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/数据结构/语法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/Coursera/Step1/笔记.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/algorithm/前提.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/algorithm/第一章.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/大O表示法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/排序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/散列表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/语法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../数据结构&amp;算法/算法/递归.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bboOWradTJVXMfoM1YH4xrjCaj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cb2874c-917a-4a52-8b07-313d5be8020f" name="Default Changelist" comment="" />
+      <created>1588910124511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588910124511</updated>
+      <workItem from="1588910143630" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1588910241723">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1588910241723" />
+    <state x="178" y="42" key="new project wizard" timestamp="1588910242987">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1588910242987" />
+  </component>
+</project>

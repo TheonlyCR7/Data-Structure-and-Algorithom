@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/SelectionSort.dir/main.cpp.o  -o SelectionSort.exe -Wl,--out-implib,libSelectionSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

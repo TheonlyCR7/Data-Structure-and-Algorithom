@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Notes/Data Structure& Algorithm/Algorithm/imooc/C++/SelectionSort/SortTestHelper.h
+ostream
+-
+cassert
+-
+assert.h
+-
+
+/cygdrive/d/Notes/Data Structure& Algorithm/Algorithm/imooc/C++/SelectionSort/Student.h
+iostream
+-
+string
+-
+
+/cygdrive/d/Notes/Data Structure& Algorithm/Algorithm/imooc/C++/SelectionSort/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+Student.h
+/cygdrive/d/Notes/Data Structure& Algorithm/Algorithm/imooc/C++/SelectionSort/Student.h
+SortTestHelper.h
+/cygdrive/d/Notes/Data Structure& Algorithm/Algorithm/imooc/C++/SelectionSort/SortTestHelper.h
+

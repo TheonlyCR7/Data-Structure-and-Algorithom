@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Leecode/Leecode.iml" filepath="$PROJECT_DIR$/../../Leecode/Leecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_/array_.iml" filepath="$PROJECT_DIR$/array_/array_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data_structure.iml" filepath="$PROJECT_DIR$/.idea/data_structure.iml" />
+    </modules>
+  </component>
+</project>

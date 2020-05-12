@@ -1,0 +1,10 @@
+C:\Users\Administrator\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "\"D:/一些源码/算法源码/03-Sorting-Advance/Course Code (C++)/05-Quick-Sort\""
+CMake Error: The source directory "/cygdrive/d/涓�浜涙簮鐮�/绠楁硶婧愮爜/03-Sorting-Advance/Course Code (C++)/05-Quick-Sort/cmake-build-debug/"/"D:/涓�浜涙簮鐮�/绠楁硶婧愮爜/03-Sorting-Advance/Course Code (C++)/05-Quick-Sort/""" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+
+CMake Error:
+  ------------------------------------------------------------------------------------
+  Selected CMake might be incompatible with the Cygwin environment.
+  In order to run on Cygwin, CMake needs to be specially compiled.
+  Please select either CMake bundled with CLion or CMake from the Cygwin installation.
+  ------------------------------------------------------------------------------------
