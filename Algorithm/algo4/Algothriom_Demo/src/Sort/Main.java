@@ -6,7 +6,7 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) {
 
-        // 这里使用相对路径时，要注意，根目录(起始目录)为 Algothriom_Demo(项目文件夹)，并非java文件本身
+        // 这里使用相对路径时，要注意，根目录(起始目录)为 Algothrim_Demo(项目文件夹)，并非java文件本身
         String filePath =
                 "src\\algs4-data\\32kints.txt";
         // 通过文件路径获取文件

@@ -8,9 +8,9 @@ import static Sort.SortExample.*;
 public class SelectSort {
     public static void sort(Comparable[] b){
 
+        // 复制数组
         Comparable[] a = new Comparable[b.length];
-        for(int i = 0; i < b.length; i ++)
-            a[i] = b[i];
+        System.arraycopy(b, 0, a, 0, b.length);
 
         int N = a.length;
         for(int i = 0; i < N; i ++){
