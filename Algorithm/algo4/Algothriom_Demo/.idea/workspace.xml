@@ -19,32 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1f9199c-6a21-4533-9683-ff6fe975b92c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algothrim_Demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/algs4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algothrim_Demo/Sort/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algothrim_Demo/Sort/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algothrim_Demo/Sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algothrim_Demo/Sort/SortExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algothrim_Demo/Sort/insertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/SelectSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/ShellSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/SortExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/insertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/777.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../前提.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../排序算法.md" beforeDir="false" />
-    </list>
+    <list default="true" id="f1f9199c-6a21-4533-9683-ff6fe975b92c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Algothrim/Algothriom_Demo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -177,6 +152,7 @@
       <workItem from="1590454776031" duration="6033000" />
       <workItem from="1590460842551" duration="149000" />
       <workItem from="1590550666591" duration="4240000" />
+      <workItem from="1596421986811" duration="49000" />
     </task>
     <servers />
   </component>
@@ -196,10 +172,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1590160761408">
+    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1596422031706">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1590160761408" />
+    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596422031706" />
     <state width="1493" height="267" key="GridCell.Tab.0.bottom" timestamp="1590563298088">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
