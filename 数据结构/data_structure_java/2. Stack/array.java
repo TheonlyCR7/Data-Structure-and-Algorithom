@@ -1,5 +1,6 @@
 package Stack;
 
+// 基本类
 //使用泛类
 public class array<E> {
 
@@ -32,7 +33,6 @@ public class array<E> {
     public boolean isEmpty() {
         return size == 0;
     }
-
 
     public void addLast( E e) {
 

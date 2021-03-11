@@ -41,7 +41,7 @@ class Solution {
         public int compare(Freq a, Freq b) {
             return a.freq - b.freq;
         }
-    })
+    });
 
     public List<Integer> topKFrequent(int[] nums, int k) {
 

@@ -2,6 +2,7 @@ package Stack;
 
 import java.lang.reflect.Array;
 
+// 实现类
 public class ArrayStack<E> implements Stack<E> {
 
 
