@@ -29,6 +29,7 @@ public class LinkedListMap<K, V> implements Map<K, V> {
         }
     }
 
+    // 虚节点
     private Node dummyHead;
     private int size;
 

@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1f9199c-6a21-4533-9683-ff6fe975b92c" name="Default Changelist" comment="" />
+    <list default="true" id="f1f9199c-6a21-4533-9683-ff6fe975b92c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../imooc/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../imooc/笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构/data_structure_java/3. Map/LinkedListMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构/data_structure_java/3. Map/LinkedListMap.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +131,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -153,11 +157,12 @@
       <workItem from="1590460842551" duration="149000" />
       <workItem from="1590550666591" duration="4240000" />
       <workItem from="1596421986811" duration="49000" />
+      <workItem from="1617021975454" duration="73000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -170,55 +175,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1596422031706">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596422031706" />
-    <state width="1493" height="267" key="GridCell.Tab.0.bottom" timestamp="1590563298088">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590563298088" />
-    <state width="1493" height="267" key="GridCell.Tab.0.center" timestamp="1590563298087">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590563298087" />
-    <state width="1493" height="267" key="GridCell.Tab.0.left" timestamp="1590563298087">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590563298087" />
-    <state width="1493" height="267" key="GridCell.Tab.0.right" timestamp="1590563298088">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="267" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590563298088" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1590563298056">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590563298056" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1590563298055">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590563298055" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1590563298055">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590563298055" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1590563298056">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590563298056" />
-    <state x="249" y="6" key="SettingsEditor" timestamp="1590321613726">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590321613726" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1590550871748">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1590550871748" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590457565025">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1590457565025" />
   </component>
 </project>
